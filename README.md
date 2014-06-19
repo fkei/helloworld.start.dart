@@ -3,6 +3,13 @@ dart.start.helloworld
 
 Hello World on dart+start
 
+# Setup
+
+```sh
+$ brew install dart # dartlang install 
+$ pub get # deps package install
+```
+
 # Run
 
 ```sh
